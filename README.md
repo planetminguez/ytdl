@@ -1,3 +1,11 @@
+- ##  Support the Developer
+
+If you find this tool useful, consider supporting the developer:
+
+- **💰 Cash App**: `$planetminguez`
+- **💳 Venmo**: `@planetminguez`
+- **🐙 GitHub**: [https://github.com/planetminguez](https://github.com/planetminguez)
+
 # Dependicies
 pip install yt-dlp
 pip3 install yt-dlp
@@ -33,6 +41,15 @@ Quality Selection: Allows specifying video quality/format
 Custom Output Directory: Download to a specific folder
 Format Listing: View available formats before downloading
 Video Information: Display video details
+
+
+If you find this tool useful, consider supporting the developer:
+
+- **💰 Cash App**: `$planetminguez`
+- **💳 Venmo**: `@planetminguez`
+- **🐙 GitHub**: [https://github.com/planetminguez](https://github.com/planetminguez)
+
+
 
 
 
