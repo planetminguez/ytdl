@@ -6,7 +6,7 @@ If you find this tool useful, consider supporting the developer:
 - **💳 Venmo**: `@planetminguez`
 - **🐙 GitHub**: [https://github.com/planetminguez](https://github.com/planetminguez)
 
-# Dependicies
+# Dependencies
 pip install yt-dlp
 pip3 install yt-dlp
 
