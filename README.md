@@ -12,9 +12,10 @@ pip3 install yt-dlp
 
 # Ubuntu/Debian
 sudo apt install ffmpeg
-
+then just type make
 # macOS
 brew install ffmpeg
+then just type make
 
 # Windows
 # Download from https://ffmpeg.org/
